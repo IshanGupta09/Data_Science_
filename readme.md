@@ -31,4 +31,3 @@ Each project contains:
 ---
 
 🔗 **[Connect with Me on LinkedIn](https://www.linkedin.com/in/ishan-gupta091/)** | ✉ **Email: [g.ishan091@gmail.com]**
-
